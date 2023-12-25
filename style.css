@@ -1,0 +1,250 @@
+/* Developed By Ahnaf Tahmid */
+
+body {
+    font-family: 'Varela Round', sans-serif;
+    margin: 0;
+}
+
+#first {
+
+    height: 460px;
+}
+
+
+.box {
+    width: 410px;
+    margin-left: 100px;
+    margin-top: 60px;
+    padding-left: 60px;
+    float: left;
+
+}
+
+.box h1 {
+    line-height: 30px;
+    font-size: 3.2rem;
+
+    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Passion One', cursive;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.box h2 {
+    font-size: 2.2rem;
+    font-weight: black 900;
+}
+
+.box img {
+    width: 100%;
+
+}
+
+.anchor {
+    font-size: .9rem;
+    color: white;
+    background-image: linear-gradient(to right, rgb(151, 151, 241) 20%, rgb(24, 65, 177));
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 19px 45px;
+    line-height: 70px;
+}
+
+
+
+#second {
+    height: 480px;
+
+}
+
+/* Another section  */
+
+#third {
+
+    height: 540px;
+    margin-top: 90px;
+}
+
+#box-1 {
+    text-align: center;
+
+}
+
+#box-1 h2 {
+    font-size: 2.2rem;
+}
+
+.box-2 {
+    width: 320px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 75px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    box-shadow: 3px 3px 30px rgb(212, 211, 211);
+    border-radius: 20px;
+}
+
+.box-2 img {
+    width: 100%;
+    margin-top: 10px;
+}
+
+/* Another section  */
+
+#fourth {
+    margin-top: 70px;
+    height: 280px;
+
+
+}
+
+#container-1 {
+    margin-top: 40px;
+    margin-left: 250px;
+    height: 200px;
+    width: 870px;
+    background-image: url("shapes/image.png");
+    background-position: center;
+    background-size: cover;
+    border-radius: 30px;
+
+
+}
+
+.box-3 {
+    width: auto;
+    float: left;
+}
+
+.box-3 h1 {
+    font-size: 2.9rem;
+    color: white;
+}
+
+.box-3 a {
+    width: 30px;
+
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 17px;
+    color: white;
+    background-image: linear-gradient(to right, rgb(255, 86, 56) 0, rgb(174, 255, 68));
+}
+
+#left {
+    margin-top: 36px;
+
+    margin-left: 70px;
+}
+
+#right {
+    margin-top: 90px;
+    margin-left: 250px;
+}
+
+/* Another Section */
+
+#services {
+
+    height: 460px;
+    margin-top: 40px;
+    background-image: linear-gradient(180deg, #f7f7f7 30%, #6a80bd 100%);
+}
+
+#header {
+    text-align: center;
+
+}
+
+#header h2 {
+    font-size: 2.2rem;
+
+
+}
+
+.box-4 {
+    width: 300px;
+    height: 290px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 70px;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 3px 3px 30px rgb(238, 240, 246);
+    border-radius: 20px;
+    border: 7px solid rgb(242, 184, 199);
+}
+
+
+
+.learn-more {
+    font-size: .9rem;
+    text-decoration: none;
+    line-height: 90px;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, rgb(182, 89, 244)20%, rgb(250, 183, 136) 100%);
+
+}
+
+/* Footer Part */
+
+footer {
+    margin-top: 50px;
+}
+
+footer h3 {
+    color: dimgray;
+    text-align: center;
+
+}
+
+footer h2 {
+    text-align: center;
+
+}
+
+#box-5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 40px;
+}
+
+
+#box-11 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 40px;
+}
+
+footer img {
+    width: 30px;
+
+}
+
+.img {
+    float: left;
+    margin-left: 20px;
+
+}
+
+/* Colors taker */
+
+.highlight1 {
+    color: rgb(74, 25, 87);
+
+}
+
+.highlight2 {
+    color: rgb(186, 222, 66);
+
+}
+
+
